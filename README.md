@@ -31,3 +31,4 @@
 
 
 ### Result:
+Thus the Sentimental Analysis on Any Dataset Using Rapidminer executed successfully
